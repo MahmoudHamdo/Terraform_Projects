@@ -1,5 +1,4 @@
 # Terraform_Projects
-Deploying AWS infrastructure using terraform
 Project Overview:
 Objective: Deployed an EC2 instance, S3 bucket, and DynamoDB table in two regions while maintaining identical configurations.
 Modular Approach: Utilized Terraform modules to encapsulate infrastructure code, promote code reuse, and ensure consistency.
